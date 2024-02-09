@@ -11,4 +11,4 @@ And this specific repository contains documentation about the PHP language, whic
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_PHP.png)](https://dicer0.com/#skills)
+[![PHP](http://dicer0.com/wp-content/uploads/2023/10/p_PHP.png)](https://dicer0.com/#skills)
